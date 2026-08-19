@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-9gb6qn.creditforge.live/sitemap.xml
